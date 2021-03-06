@@ -75,7 +75,7 @@ nav ul{
     /*this is the styling of about section*/
     
     
-    .mypic{
+    .my photo{
         height: 500px;
         
         border: 8px solid #00334d;
@@ -107,7 +107,7 @@ nav ul{
     padding: 40px;
 }
 .learnmore{
-    background:orange;
+    background:blue;
     color:black;
          
 }
